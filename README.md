@@ -16,9 +16,6 @@
 
 https://terrranova.netlify.app/
 
-# Clone the repository
-git clone https://github.com/ZainabAbdulfatah25/TerraNova.git
-
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
@@ -33,6 +30,9 @@ git clone https://github.com/ZainabAbdulfatah25/TerraNova.git
 ## 📦 Installation
 
 To run this project locally:
+
+# Clone the repository
+git clone https://github.com/ZainabAbdulfatah25/TerraNova.git
 
 # Move into the project directory
 cd TerraNova
