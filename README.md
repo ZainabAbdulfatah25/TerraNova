@@ -57,7 +57,7 @@ To contribute:
 
 This project is licensed under the MIT License – you’re free to use, modify, and distribute it with attribution.
 
-💬 Acknowledgment
+## Acknowledgment
 
 we would like to express our heartfelt gratitude to everyone who contributed to the creation and success of the Code & Create Bootcamp.
 
