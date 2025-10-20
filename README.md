@@ -19,7 +19,7 @@
 | Category | Technologies |
 |-----------|--------------|
 | Frontend  | HTML, CSS, JavaScript |
-| Deployment | Vercel |
+| Deployment | Netlify |
 | Version Control | Git & GitHub |
 | Design Tools | Figma / Canva (for branding) |
 
