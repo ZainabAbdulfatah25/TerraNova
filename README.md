@@ -38,6 +38,7 @@ cd TerraNova
 # Open the project in VS Code
 code .
 💫 Live Demo
+https://terrranova.netlify.app/
 
 🔗 View Project on Vercel 
 
