@@ -16,6 +16,9 @@
 
 https://terrranova.netlify.app/
 
+# Clone the repository
+git clone https://github.com/ZainabAbdulfatah25/TerraNova.git
+
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
@@ -31,24 +34,21 @@ https://terrranova.netlify.app/
 
 To run this project locally:
 
-# Clone the repository
-git clone https://github.com/ZainabAbdulfatah25/TerraNova.git
-
 # Move into the project directory
 cd TerraNova
 
 # Open the project in VS Code
 code .
 💫 Live Demo
-## Contributing
-Contributions, feedback, and ideas are always welcome!
-To contribute:
-
 1. Fork the repository
 2. Create a new branch (git checkout -b feature-branch)
 3. Commit your changes (git commit -m "Add new feature")
 3. Push to your branch (git push origin feature-branch)
 4. Submit a Pull Request
+
+## Contributing
+Contributions, feedback, and ideas are always welcome!
+To contribute:
 
 ⚖️ License
 
