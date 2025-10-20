@@ -1,4 +1,3 @@
-# TerraNova
 # TerraNova-Project
 **TerraNova** is a sustainability-driven project focused on promoting clean energy adoption and awareness through interactive design and digital innovation. Built with modern web technologies, TerraNova delivers an engaging user experience that encourages individuals and organizations to explore renewable energy solutions.
 
@@ -13,6 +12,9 @@
 - 🌐 **Deployed via Vercel** - Fast, scalable, and optimized for production.
 
 ---
+🔗 View Project on Vercel 
+
+https://terrranova.netlify.app/
 
 ## 🛠️ Tech Stack
 
@@ -38,12 +40,7 @@ cd TerraNova
 # Open the project in VS Code
 code .
 💫 Live Demo
-https://terrranova.netlify.app/
-
-🔗 View Project on Vercel 
-
-🤝 Contributing
-
+## Contributing
 Contributions, feedback, and ideas are always welcome!
 To contribute:
 
